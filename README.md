@@ -2,9 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-serrao)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taaiserrao/)
 
-### Sou entusiasta por tecnologia atuante no ramo desde 2009, uma apaixonada por programação atualmente cursando Desenvolvimento Web FullStack na [Trybe](https://betrybe.com). 
-<br/>
-<br/>
+#### Sou entusiasta por tecnologia atuante no ramo desde 2009, uma apaixonada por programação atualmente cursando Desenvolvimento Web FullStack na [Trybe](https://betrybe.com).
 
 ### 🏆 Github Status
 
@@ -14,9 +12,7 @@
 ### 🥇Linguagens mais utilizadas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiserrao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-<br/>
-<br/>
-<br/>
+
 
 ## Tecnologias que uso no meu dia
 
