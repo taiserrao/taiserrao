@@ -5,7 +5,6 @@
 #### Sou entusiasta por tecnologia atuante no ramo desde 2009, uma apaixonada por programação atualmente cursando Desenvolvimento Web FullStack na [Trybe](https://betrybe.com).
 
 ### 🏆 Github Status
-
 <div style="display: inline_block"><br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taiserrao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
@@ -13,6 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiserrao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<br/>
 
 ## Tecnologias que uso no meu dia
 
