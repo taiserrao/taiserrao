@@ -16,7 +16,7 @@
 <br/>
 
 ### 🥇Linguagens mais utilizadas
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiserrao&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiserrao&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <br/>
 <br/>
