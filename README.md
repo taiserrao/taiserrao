@@ -1,6 +1,5 @@
 ## Olá! Me chamo Taiane Serrão! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taiane-serrao)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/taaiserrao/)
 
 #### Sou entusiasta por tecnologia e inovação, atuante na área desde 2009, e hoje como Desenvolvedora sigo apaixonada pelo universo da programação e afins. Formada em Desenvolvimento FullStack na [Trybe](https://betrybe.com).
 
